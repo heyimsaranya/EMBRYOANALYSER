@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local model weights are too large for a standard GitHub repo
+*.pth

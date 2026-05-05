@@ -76,18 +76,13 @@ These files are not included in the repository because they are too large for a 
 streamlit run app.py
 ```
 
-The app will open in your browser, usually at:
-
-```text
-http://localhost:8501
-```
-
 ## Clinical Use Note
 
 This application is intended as an assistive clinical decision-support and research tool. It is not a standalone diagnostic system and should be used alongside embryologist expertise, laboratory review, and patient-specific clinical context.
 
-## GitHub Repository
 
-Repository link:
+References:
 
-[https://github.com/heyimsaranya/EMBRYOANALYSER](https://github.com/heyimsaranya/EMBRYOANALYSER)
+Tristan Gomez, Magalie Feyeux, Justine Boulant, Nicolas Normand, Laurent David, Perrine Paul-Gilloteaux, Thomas Fréour, Harold Mouchère, A time-lapse embryo dataset for morphokinetic parameter prediction, Data in Brief, Volume 42, 2022, 108258, ISSN 2352-3409, https://doi.org/10.1016/j.dib.2022.108258.
+
+IC-IP Lab, ISODS Competitions, and Shaimaa Ali. Embryo classification based on microscopic images. https://kaggle.com/competitions/world-championship-2023-embryo-classification, 2023. Kaggle.
